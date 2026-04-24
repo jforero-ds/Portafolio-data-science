@@ -11,6 +11,8 @@ Análisis exploratorio del clima de Bogotá durante 2024 usando datos horarios d
 - requests
 
 ## Estructura del proyecto
+```
+
 proyecto_03_clima_bogota/
 ├── data/
 │   ├── raw/          # Datos crudos de la API (no incluidos en el repo)
@@ -20,6 +22,7 @@ proyecto_03_clima_bogota/
 │   ├── 02_limpieza.ipynb
 │   └── 03_visualizacion.ipynb
 └── README.md
+```
 ## Hallazgos principales
 
 - **Temperatura estable**: Bogotá mantiene una temperatura promedio entre 13°C y 15°C durante todo el año, con una variación anual de apenas 1.5°C. No hay estaciones térmicas.
