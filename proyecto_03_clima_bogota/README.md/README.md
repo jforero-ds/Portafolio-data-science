@@ -34,7 +34,6 @@ proyecto_03_clima_bogota/
 
 - **Alta humedad relativa**: La mayoría de las horas del año la humedad supera el 90%, 
   lo que explica la sensación de frío húmedo característica de la ciudad.
-
 ## Reproducción del proyecto
 
 1. Clonar el repositorio
